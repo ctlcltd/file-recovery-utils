@@ -1,0 +1,1 @@
+{"ok":{"length":1,"data":{"_root\/path":{"file.mp3":{"src":"\/drive\/dst\/path\/file.mp3","check":["valid audio mpeg stream"]}}}},"nok":{"length":1,"data":{"_root\/path":{"file0.mp3":{"src":"\/drive\/dst\/path\/file0.mp3","check":["can't stat file (dangling symbolic link?)"]}}}},"misc":{"length":1,"data":{"_root\/path":{"file1.flac":{"src":"\/drive\/dst\/path\/file1.flac"}}}}}
