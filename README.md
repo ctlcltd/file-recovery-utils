@@ -72,10 +72,10 @@ php dst_restore_tree.php SrcFolder DstFolder DataCheckResults.json ToCopyFolderD
 
 ### Requirements
 
-PHP >= 7
-find
-diff
-mkdir
+* PHP >= 7
+* find
+* diff
+* mkdir
 
 PHP context with `shell_exec` function enabled.
 
